@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
         products = new ArrayList<>();
 
-        //adding an onclicklistener to button
+        //adding an onclicklistener to button/
         buttonAddProduct.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
